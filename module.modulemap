@@ -1,0 +1,6 @@
+module CWorld{
+header "/home/wang/CHello/Hello.h"
+link "Hello"
+export *
+}
+
